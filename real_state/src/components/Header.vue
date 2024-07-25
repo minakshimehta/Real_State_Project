@@ -481,6 +481,11 @@ li {
     flex-direction: column;
     width: 100%;
   }
+  header .container {
+    flex-direction: row;
+
+}
+
 
   header nav ul.active {
     display: flex;
@@ -545,7 +550,7 @@ li {
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
   }
 
   .map-container {
@@ -704,7 +709,6 @@ section#payment {
 }
 </style>
 <style scoped>
-/* Styles for the Bank Loan Offers Section */
 section#loanOffers {
   padding: 2em 1rem;
   background-color: #f4f4f4;
