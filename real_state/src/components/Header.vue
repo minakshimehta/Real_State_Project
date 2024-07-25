@@ -24,7 +24,7 @@
           </div>
         </div>
       </header>
-      <div style="height: 700px; border-top: 6px solid #ffbc00">
+      <div style=" border-top: 6px solid #ffbc00">
         <img
           src="https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg"
           alt=""
