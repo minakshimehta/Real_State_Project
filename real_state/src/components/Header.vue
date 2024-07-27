@@ -36,7 +36,7 @@
       <div class="overview_container">
         <section id="overview">
           <h2>Project Building Overview</h2>
-          <div>
+          <div class="overviewsection">
             <p>{{ projectOverview1 }}</p>
             <p>{{ projectOverview2 }}</p>
           </div>
@@ -484,6 +484,14 @@ li {
   }
   section{
   padding: 0em 0rem;
+}
+.overviewsection {
+    padding: 0em 1em;
+}
+p{
+
+  padding: 0rem 1rem;
+    text-align: center;
 }
   header .container {
     flex-direction: row;
