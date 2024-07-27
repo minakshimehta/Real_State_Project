@@ -405,6 +405,7 @@ section {
   padding: 2em 1rem;
   border-bottom: 1px solid #ccc;
 }
+
 .overview_container,
 .sampleFlat_container {
   background-color: #020829;
@@ -481,6 +482,9 @@ li {
     flex-direction: column;
     width: 100%;
   }
+  section{
+  padding: 0em 0rem;
+}
   header .container {
     flex-direction: row;
 
